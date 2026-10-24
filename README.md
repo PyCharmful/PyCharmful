@@ -1,5 +1,5 @@
 # Hi, I'm PyCharm! 👋
-<img src="https://i.pinimg.com/originals/bb/cd/7d/bbcd7dff26ed4906552885b263eb75bd.gif" alt="" width="300" height="300">
+<img src="https://i.pinimg.com/originals/bb/cd/7d/bbcd7dff26ed4906552885b263eb75bd.gif" alt="">
 
 ## 🚀 About Me
 Ural Federal University student who want to improve porgrammer skills.
