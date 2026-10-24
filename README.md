@@ -1,7 +1,7 @@
 # Hi, I'm PyCharm! 👋
 
 ## 🚀 About Me
-Ural Federal University student who want to improve porgrammer skills.
+Ural Federal University student who want to improve porgramming skills.
 
 Favorite game series: Resident Evil
 
