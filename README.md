@@ -1,4 +1,4 @@
-# Hi, I'm PyCharm! 👋
+# 𝑫𝒐𝒏'𝒕 𝒚𝒐𝒖 𝒅𝒂𝒓𝒆 𝒕𝒐𝒖𝒄𝒉 𝒕𝒉𝒂𝒕 𝒅𝒊𝒂𝒍. 𝑩𝒆𝒄𝒂𝒖𝒔𝒆 𝒍𝒊𝒌𝒆 𝒕𝒉𝒆 𝒔𝒐𝒏𝒈 𝒔𝒂𝒚𝒔, 𝒚𝒐𝒖 𝒂𝒓𝒆 𝒐𝒖𝒕 𝒐𝒇 𝒕𝒊𝒎𝒆
 
 ## 🚀 About Me
 Ural Federal University student who want to improve porgramming skills.
