@@ -6,14 +6,8 @@ Ural Federal University student who want to improve porgramming skills.
 Favorite game series: Resident Evil
 
 Favorite artist: The Weeknd
-## 🛠 Skills
-C++, C#, Python
-
-## Related
-
-Here are some related projects
-
-[My Onw File Manager](https://github.com/PyCharmful/My-Own-File-Manager-MOFM-.git)
+## 🛠 Skills (All that I learned)
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="50"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/csharp.webp" width="50"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="50">
 ##
 
 <img src="https://i.pinimg.com/1200x/59/4a/cf/594acffe419e2498827b9e91fbfe396e.jpg" alt="" width="200" height="200"> <img src="https://i.pinimg.com/1200x/aa/f5/ca/aaf5ca777c4607f662279880d299fb03.jpg" alt="" width="200" height="200"> <img src="https://i.pinimg.com/736x/36/cb/e3/36cbe3e5e143b3f35568a22c74fecabb.jpg" alt="" width="200" height="200"> <img src="https://i.pinimg.com/736x/e9/07/fd/e907fdfb88bcd22f44eb5951f69639bf.jpg" alt="" width="200" height="200">
